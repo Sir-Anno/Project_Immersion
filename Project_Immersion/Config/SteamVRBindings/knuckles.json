@@ -74,6 +74,17 @@
 					}
 				},
 				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/FireHandGun"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/left/input/thumbstick",
 					"inputs":
@@ -195,5 +206,5 @@
 			]
 		}
 	},
-	"description": "Project: Immersion-20979098"
+	"description": ""
 }

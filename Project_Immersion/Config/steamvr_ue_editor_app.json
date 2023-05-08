@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.project:-immersion-20979098.unrealeditor.exe",
+			"app_key": "application.generated.ue.project_immersion-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "G:/GitHub Repos/Project_Immersion/Project_Immersion/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "Project: Immersion-20979098 [UE Editor]"
+					"name": "Project_Immersion-20979098 [UE Editor]"
 				}
 			}
 		}
